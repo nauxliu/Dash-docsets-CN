@@ -4,9 +4,14 @@
 
 >`Windows` 和 `Linux` 用户可配合 [Zeal](http://zealdocs.org/) 使用本文档
 
-## 安装
+## 下载
 
-到 [Releases](https://github.com/NauxLiu/Dash-docsets-CN/releases) 页面下载最新的文档，解压后双击安装即可。
+当前提供以下 Docsets：
+
+* PHP
+* Python
+
+请到 [Releases 页面](https://github.com/NauxLiu/Dash-docsets-CN/releases) 下载，解压后双击安装即可。
 
 ## 更新记录
 
